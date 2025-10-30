@@ -1,0 +1,8 @@
+[package]
+name = "fclipperr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arboard = "3.4"
+base64 = "0.22"
